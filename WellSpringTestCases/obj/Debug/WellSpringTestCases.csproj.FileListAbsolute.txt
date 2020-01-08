@@ -1,0 +1,14 @@
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WellSpringTestCases.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WellSpringTestCases.pdb
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\nunit.framework.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WebDriver.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WebDriver.Support.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\nunit.framework.pdb
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\nunit.framework.xml
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WebDriver.xml
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\bin\Debug\WebDriver.Support.xml
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\obj\Debug\WellSpringTestCases.csprojResolveAssemblyReference.cache
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\obj\Debug\WellSpringTestCases.dll
+D:\SourceCode\WellSpring\WellSpringTestCases\WellSpringTestCases\obj\Debug\WellSpringTestCases.pdb
